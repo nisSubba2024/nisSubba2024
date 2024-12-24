@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Nishan! 👋
 
-<!--
-**nisSubba2024/nisSubba2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm thrilled you're here. 😊
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I'm a **tech enthusiast** with a **Bachelor of Science in Information Systems** and a passion for:
+
+- 🌐 **Web Development** (HTML, CSS, JavaScript, and more!)
+- 📊 **Data Analysis** (Turning data into insights!)
+- 🗄️ **Database Development & Management** (SQL, PostgreSQL, Oracle, MySQL, you name it!)
+- 🛠️ **IT Troubleshooting** (Making tech work seamlessly!)
+
+Now, I’m actively looking for opportunities to apply and grow my skill sets. 🚀
+
+---
+
+## 🛠️ My Skillset
+
+Here’s what I bring to the table:
+
+- **Programming Languages**: Python, JavaScript, SQL (PL/SQL, MySQL, PostgreSQL, Oracle)
+- **Web Development**: HTML, CSS, JavaScript
+- **Data & Databases**: Database management, data analysis, and visualization
+- **IT Expertise**: Troubleshooting and understanding computer functionality
+
+---
+
+## 🌱 What I’m Up To
+
+- 📚 Currently learning **Java** and **C++**, working through the "Starting Out with Java and C++" book
+- 💻 Uploading programming challenge solutions as I progress
+- 🛠️ Building my portfolio alongside other exciting projects
+
+---
+
+## 📫 Let’s Connect!
+
+If you're as excited about tech as I am, feel free to reach out! 
+
+---
+
+Thank you for visiting my profile! 😄 Don’t forget to check out my projects. Happy coding! 🚀
