@@ -1,6 +1,6 @@
 # Hi there, I'm Nishan! 👋
 
-Welcome to my GitHub profile! I'm thrilled you're here. 😊
+Welcome to my GitHub personal profile! I'm thrilled you're here. 😊
 
 ---
 
