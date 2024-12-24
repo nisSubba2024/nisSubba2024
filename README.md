@@ -43,3 +43,4 @@ If you're as excited about tech as I am, feel free to reach out!
 ---
 
 Thank you for visiting my profile! 😄 Don’t forget to check out my projects. Happy coding! 🚀
+You can my projects in my linked account @nissubba1
