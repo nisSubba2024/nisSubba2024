@@ -24,7 +24,7 @@ Here’s what I bring to the table:
 - **Programming Languages**: Python, JavaScript, SQL (PL/SQL, MySQL, PostgreSQL, Oracle)
 - **Web Development**: HTML, CSS, JavaScript
 - **Data & Databases**: Database management, data analysis, and visualization
-- **IT Expertise**: Troubleshooting and understanding computer functionality
+- **IT**: Basic Troubleshooting
 
 ---
 
@@ -33,12 +33,6 @@ Here’s what I bring to the table:
 - 📚 Currently learning **Java** and **C++**, working through the "Starting Out with Java and C++" book
 - 💻 Uploading programming challenge solutions as I progress
 - 🛠️ Building my portfolio alongside other exciting projects
-
----
-
-## 📫 Let’s Connect!
-
-If you're as excited about tech as I am, feel free to reach out! 
 
 ---
 
