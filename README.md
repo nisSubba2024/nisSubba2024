@@ -8,9 +8,9 @@ Please check out my projects here are: https://nissubba2024.github.io/portfolio/
 
 I'm a **tech enthusiast** with a **Bachelor of Science in Information Systems** and a passion for:
 
-- 🌐 **Web Development** (HTML, CSS, JavaScript, and more!)
-- 📊 **Data Analysis** (Turning data into insights!)
-- 🗄️ **Database Development & Management** (SQL, PostgreSQL, Oracle, MySQL, you name it!)
+- 🌐 **Web Development**
+- 📊 **Data Analysis and Web Scrapping**
+- 🗄️ **Database Development & Management**
 - 🛠️ **IT Troubleshooting**
 
 Now, I’m actively looking for opportunities to apply and grow my skill sets. 🚀
@@ -21,9 +21,9 @@ Now, I’m actively looking for opportunities to apply and grow my skill sets. �
 
 Here’s what I bring to the table:
 
-- **Programming Languages**: Python, JavaScript, SQL (PL/SQL, MySQL, PostgreSQL, Oracle)
+- **Programming Languages**: Python, JavaScript, SQL (PL/SQL, MySQL, PostgreSQL, Oracle), little bit of Java and C++
 - **Web Development**: HTML, CSS, JavaScript
-- **Data & Databases**: Database management, data analysis, and visualization
+- **Data & Databases**: Database management, data analysis, data query and optimization, and visualization
 - **IT**: Basic Troubleshooting
 
 ---
