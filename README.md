@@ -11,7 +11,7 @@ I'm a **tech enthusiast** with a **Bachelor of Science in Information Systems** 
 - 🌐 **Web Development** (HTML, CSS, JavaScript, and more!)
 - 📊 **Data Analysis** (Turning data into insights!)
 - 🗄️ **Database Development & Management** (SQL, PostgreSQL, Oracle, MySQL, you name it!)
-- 🛠️ **IT Troubleshooting** (Making tech work seamlessly!)
+- 🛠️ **IT Troubleshooting**
 
 Now, I’m actively looking for opportunities to apply and grow my skill sets. 🚀
 
