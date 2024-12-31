@@ -36,5 +36,5 @@ Here’s what I bring to the table:
 
 ---
 
-Thank you for visiting my profile! 😄 Don’t forget to check out my projects. Happy coding! 🚀
+Thank you for visiting my profile! 😄 Don’t forget to check out my projects.
 You can my projects in my linked account @nissubba1
