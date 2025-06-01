@@ -1,7 +1,7 @@
 # Hi there, I'm Nishan! 👋
 
 Welcome to my GitHub personal profile! I'm thrilled you're here. 😊
-Please check out my projects here are: https://nissubba2024.github.io/portfolio/
+Please check out my projects here are: wwww.nishansubba.com
 ---
 
 ## 🌟 About Me
